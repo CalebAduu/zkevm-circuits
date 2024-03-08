@@ -6,7 +6,7 @@ Check out the work in progress [specification](https://github.com/privacy-scalin
 
 
 ## Getting started
-
+335ff5f4f5f4f
 To run the same tests as the CI, please use: `make test-all`.
 
 ## Running benchmarks
